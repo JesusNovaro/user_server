@@ -1,46 +1,5 @@
 {
   "personas": [
-    {
-      "id": 1,
-      "nombre": "Maria",
-      "apellido": "Zavala",
-      "edad": 29
-    },
-    {
-      "id": 2,
-      "nombre": "Carlos",
-      "apellido": "Hernandes",
-      "edad": 32
-    },
-    {
-      "id": 3,
-      "nombre": "Cielo",
-      "apellido": "Rivas",
-      "edad": 27
-    },
-    {
-      "id": 4,
-      "nombre": "Rosa",
-      "apellido": "Esteban",
-      "edad": 23
-    },
-    {
-      "id": 5,
-      "nombre": "Fernanda",
-      "apellido": "Ramos",
-      "edad": 28
-    },
-    {
-      "id": 6,
-      "nombre": "Pedro",
-      "apellido": "Torres",
-      "edad": 46
-    },
-    {
-      "id": 7,
-      "nombre": "Pablo",
-      "apellido": "Sousa",
-      "edad": 40
-    }
+    
   ]
 }
